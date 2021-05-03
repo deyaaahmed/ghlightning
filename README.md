@@ -7,7 +7,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ghlightning.
 
 ```bash
-pip3 install lightning
+pip3 install ghlightning
 ```
 
 ## Usage
