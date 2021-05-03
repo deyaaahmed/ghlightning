@@ -1,10 +1,10 @@
-# Lightning :zap:
+# Github Lightning :zap:
 
-**lightning** is a very simple python package to collect all the information that can be collected about the users of the [GitHub](http://github.com) website.
+**ghlightning** is a very simple python package to collect all the information that can be collected about the users of the [GitHub](http://github.com) website.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install lightning.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ghlightning.
 
 ```bash
 pip3 install lightning
@@ -13,7 +13,7 @@ pip3 install lightning
 ## Usage
 
 ```python
-from lightning import Github
+from ghlightning import Github
 
 test = Github("7azabet") # initializing an object.
 test.email # returns the email of object.
